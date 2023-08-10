@@ -1,0 +1,13 @@
+{
+    "name": "Prototype_Pro",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "crysis"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2018-05-04 17:21:32",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

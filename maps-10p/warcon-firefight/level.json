@@ -1,0 +1,13 @@
+{
+    "name": "warcon-firefight",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "arizona",
+    "author": {
+        "name": "Ismir קal and vaut"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2017-04-22 18:42:59",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Mono 2.10"
+}

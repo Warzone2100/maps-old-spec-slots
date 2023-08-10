@@ -1,0 +1,13 @@
+{
+    "name": "Rivalry",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "rockies",
+    "author": {
+        "name": "osden7"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2019-04-20 16:18:07",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

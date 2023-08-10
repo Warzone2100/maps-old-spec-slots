@@ -1,0 +1,13 @@
+{
+    "name": "urbanchasmspec",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "urban",
+    "author": {
+        "name": "Mysteryem"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2011-01-19 20:49:21",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.10"
+}

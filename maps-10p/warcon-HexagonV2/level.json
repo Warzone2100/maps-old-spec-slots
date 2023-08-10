@@ -1,0 +1,13 @@
+{
+    "name": "warcon-HexagonV2",
+    "type": "skirmish",
+    "players": 10,
+    "tileset": "arizona",
+    "author": {
+        "name": "vaut and gtnz"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2017-04-29 13:54:29",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}

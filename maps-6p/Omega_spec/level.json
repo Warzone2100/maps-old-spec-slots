@@ -1,0 +1,13 @@
+{
+    "name": "Omega_spec",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "arizona",
+    "author": {
+        "name": "NoQ+vaut"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2017-03-24 23:58:27",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Mono 2.10"
+}

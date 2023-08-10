@@ -1,0 +1,13 @@
+{
+    "name": "ConStruction",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "urban",
+    "author": {
+        "name": "redemptor"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2013-06-15 06:41:19",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.25 Windows"
+}

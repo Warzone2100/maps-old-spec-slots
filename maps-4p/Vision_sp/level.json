@@ -1,0 +1,13 @@
+{
+    "name": "Vision_sp",
+    "type": "skirmish",
+    "players": 4,
+    "tileset": "rockies",
+    "author": {
+        "name": "NoQ / bendib"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-07-27 16:20:47",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME 1.19 Visual Basic 2010"
+}

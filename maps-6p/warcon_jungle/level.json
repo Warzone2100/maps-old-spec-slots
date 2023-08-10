@@ -1,0 +1,13 @@
+{
+    "name": "warcon_jungle",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "rockies",
+    "author": {
+        "name": "vaut"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2017-11-26 14:36:02",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}

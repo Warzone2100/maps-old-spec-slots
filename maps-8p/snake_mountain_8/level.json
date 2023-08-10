@@ -1,0 +1,13 @@
+{
+    "name": "snake_mountain_8",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "arizona",
+    "author": {
+        "name": "crysis"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2017-06-28 03:50:48",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

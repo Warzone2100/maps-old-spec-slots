@@ -1,0 +1,13 @@
+{
+    "name": "auto-323-Julia",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "rockies",
+    "author": {
+        "name": "vaut"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2018-03-03 18:22:53",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}

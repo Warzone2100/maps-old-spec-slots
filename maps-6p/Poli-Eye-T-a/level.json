@@ -1,0 +1,13 @@
+{
+    "name": "Poli-Eye-T-a",
+    "type": "skirmish",
+    "players": 6,
+    "tileset": "rockies",
+    "author": {
+        "name": "r3d3"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2016-01-12 03:16:57",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

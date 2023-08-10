@@ -1,0 +1,13 @@
+{
+    "name": "Snowfall_s",
+    "type": "skirmish",
+    "players": 8,
+    "tileset": "rockies",
+    "author": {
+        "name": "NoQ"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2011-04-03 19:30:19",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.15"
+}
